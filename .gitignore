@@ -10,6 +10,7 @@ tests/spice/temporary
 *.egg-info
 
 .idea
+.vscode
 
 test_*_output.yaml
 
